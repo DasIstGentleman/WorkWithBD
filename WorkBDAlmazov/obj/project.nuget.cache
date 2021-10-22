@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+euYlpZxu69PjGRt181uZGYZdL7nm8bWIbCU7W0AcN2SJ3MdKDLNWiwvB9p+vK4NXWRQgW8HrYjeKoIhx2mB8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Глеб\\source\\repos\\WorkBDAlmazov\\WorkBDAlmazov\\WorkBDAlmazov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Глеб\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Глеб\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
